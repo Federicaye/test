@@ -1,0 +1,56 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    width: 150px;
+}
+
+
+h2{
+    color: chartreuse;
+
+}  
+.container{
+    width: 800px;
+    margin: auto;
+    margin-block: 30px 40px;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px;
+    border-radius: 15px;
+    
+
+}   
+
+nav{
+    background-color: rgb(53, 199, 53);
+    text-align: center;
+    width: 800px;
+    margin: auto;
+    padding: 10px;
+
+}
+
+header{
+    text-align: center;
+}
+
+h3, .white{
+
+    color: white;
+}
+
+h3 {
+
+    display: inline-block;
+}
+
+#ciao {
+
+    width: 100px;
+    height: 10px;
+    background: red;
+}
